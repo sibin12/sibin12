@@ -26,3 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibin12&" alt="sibin12" /></p>
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibin12&label=Profile%20views&color=0e75b6&style=flat" alt="sibin12" /> </p> 
+-->
+<h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=74FF7300&center=true&vCenter=true&random=false&width=445&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+</h2>
